@@ -3,7 +3,7 @@ name: Control de Calidad con IA
 on:
   push:
     branches:
-      - Main
+      - main
  
 jobs:
  
